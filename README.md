@@ -76,5 +76,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarioglendo7
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
 </picture>
 
-#
-
