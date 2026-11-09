@@ -40,20 +40,12 @@ I develop systems that provide ***tangible*** help. I am always looking to ***gr
 
 ## 📊 GitHub Stats
 
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=jarioglendo7& show icons=true&theme=tokyonight&include all commits=true&locale=pt-br"
-/>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jarioglendo7/jarioglendo7/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jarioglendo7/jarioglendo7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<img
-align="left"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarioglendo7& theme=tokyonight&layout=compact&custom title=Tecnologias&langs count=g"
-/>
+###
 
 ---
 
