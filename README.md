@@ -78,8 +78,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarioglendo7
 
 #
 
-###
-<p align="center">
-<i>"A tecnologia move o mundo?"</i> 
-</p>
-
