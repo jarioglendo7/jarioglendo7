@@ -62,4 +62,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarioglendo7
 
 ---
 
-💎 Always striving to evolve.
+💎 ***Always striving to evolve.***
